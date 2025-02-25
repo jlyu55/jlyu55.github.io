@@ -78,6 +78,7 @@ sections:
       title: 'Talks & Events'
       subtitle: ''
       text: |-
+        |   |   |
         |---|---|
         | Institute for Foundations of Data Science (IFDS) Ideas Forum | Nov 2024 |
         | 6th annual Data Science Research Bazaar                      | Mar 2025 |
