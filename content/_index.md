@@ -78,9 +78,10 @@ sections:
       title: 'Talks & Events'
       subtitle: ''
       text: |-
-        - AAA
-        - BBBB
-        - CC
+        | A | B |
+        |---|---|
+        | A | B |
+        | A | B |
     design:
       view: list
       columns: 1
