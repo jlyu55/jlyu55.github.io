@@ -80,14 +80,19 @@ sections:
       subtitle: ''
       text: |-
         <div style="font-size:16px;">
-        ### Invited talks
-
-        |   |   |
-        |---|---|
-        | Institute for Foundations of Data Science (IFDS) Ideas Forum | Nov 2024 |
-        | 6th annual Data Science Research Bazaar                      | Mar 2025 |
         
-        ### Poster presentation
+        #### Invited Talk
+
+        |   |   |   |
+        |---|---|---|
+        | Institute for Foundations of Data Science (IFDS) Ideas Forum | UW–Madison | Nov 2024 |
+        | Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | Mar 2025 |
+        
+        #### Poster Presentation
+
+        |   |   |   |
+        |---|---|---|
+        | 6th Annual Data Science Research Bazaar                      | UW–Madison | Mar 2025 |
 
         </div>
     design:
