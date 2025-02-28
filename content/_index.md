@@ -97,8 +97,7 @@ sections:
         </div>
     design:
       view: list
-      columns: 1
-      padding: ['0', '-20px', '0', '-20px']
+      columns: 3
   # - block: collection
   #   id: news
   #   content:
