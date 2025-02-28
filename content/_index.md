@@ -85,14 +85,14 @@ sections:
 
         |   |   |   |
         |---|---|---|
-        | Institute for Foundations of Data Science (IFDS) Ideas Forum | UW–Madison | Nov 2024 |
-        | Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | Mar 2025 |
+        | Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
+        | Institute for Foundations of Data Science (IFDS) Ideas Forum | UW–Madison | 2024.11 |
         
         #### Poster Presentation
 
         |   |   |   |
         |---|---|---|
-        | 6th Annual Data Science Research Bazaar                      | UW–Madison | Mar 2025 |
+        | 6th Annual Data Science Research Bazaar                      | UW–Madison | 2025.03 |
 
         </div>
     # design:
