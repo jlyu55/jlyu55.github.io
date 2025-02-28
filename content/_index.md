@@ -96,7 +96,7 @@ sections:
 
         </div>
     design:
-      view: list
+      view: citation
       columns: 1
   # - block: collection
   #   id: news
