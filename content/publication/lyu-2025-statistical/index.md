@@ -5,7 +5,7 @@ title: A statistical theory of overfitting for imbalanced classification
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jingyang Lyu
+- admin
 - Kangjie Zhou
 - Yiqiao Zhong
 
