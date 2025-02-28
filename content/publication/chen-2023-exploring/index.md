@@ -2,7 +2,7 @@
 title: 'Exploring the association between quantified road safety target attributes
   and their success: An empirical analysis from OECD countries using panel data'
 authors:
-- Faan Chen
+- "Faan Chen*"
 - admin_star
 - Tianye Wang
 - NN Sze
