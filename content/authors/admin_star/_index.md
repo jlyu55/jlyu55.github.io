@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jingyang Lyu*
+title: Jingyang Lyuu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
