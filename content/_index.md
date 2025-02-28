@@ -24,9 +24,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: UW.jpg
+          filename: UW2.jpg
           filters:
-            brightness: -5.0
+            brightness: 0.0
           size: cover
           position: center
           parallax: false
