@@ -95,8 +95,9 @@ sections:
         | 6th Annual Data Science Research Bazaar                      | UW–Madison | 2025.03 |
 
         </div>
-    # design:
-    #   view: list
+    design:
+      view: list
+      columns: 1
   # - block: collection
   #   id: news
   #   content:
