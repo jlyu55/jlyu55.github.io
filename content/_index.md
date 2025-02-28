@@ -98,7 +98,7 @@ sections:
     design:
       view: list
       columns: 1
-      padding: ['0', '0', '0', '0']
+      padding: ['0', '-20px', '0', '-20px']
   # - block: collection
   #   id: news
   #   content:
