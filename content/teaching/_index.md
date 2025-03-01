@@ -12,26 +12,41 @@ cascade:
 sections:
   - block: markdown
     id: teaching
-    content:
-      title: Teaching
-      text: |-
-        <div style="font-size:16px;">
+    # content:
+    #   title: Teaching
+    #   text: |-
+    #     <div style="font-size:16px;">
         
-        #### Invited Talk
+    #     #### Invited Talk
 
-        |   |   |   |
-        |---|---|---|
-        | Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
-        | Institute for Foundations of Data Science (IFDS) Ideas Forum | UW–Madison | 2024.11 |
+    #     |   |   |   |
+    #     |---|---|---|
+    #     | Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
+    #     | Institute for Foundations of Data Science (IFDS) Ideas Forum | UW–Madison | 2024.11 |
         
-        #### Poster Presentation
+    #     #### Poster Presentation
 
-        |   |   |   |
-        |---|---|---|
-        | 6th Annual Data Science Research Bazaar                      | UW–Madison | 2025.03 |
+    #     |   |   |   |
+    #     |---|---|---|
+    #     | 6th Annual Data Science Research Bazaar                      | UW–Madison | 2025.03 |
 
-        </div>
-    design:
-      view: list
-      columns: 1
+    #     </div>
+    # design:
+    #   view: list
+    #   columns: 1
 ---
+ 
+#### Invited Talk
+
+|   |   |   |
+|---|---|---|
+| Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
+| Institute for Foundations of Data Science (IFDS) Ideas Forum | UW–Madison | 2024.11 |
+
+#### Poster Presentation
+
+|   |   |   |
+|---|---|---|
+| 6th Annual Data Science Research Bazaar                      | UW–Madison | 2025.03 |
+
+</div>
