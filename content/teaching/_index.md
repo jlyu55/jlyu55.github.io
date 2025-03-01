@@ -1,17 +1,17 @@
 ---
 title: Teaching
 summary: My courses
-type: landing
+type: docs
+id: teaching
+# cascade:
+#   - _target:
+#       kind: page
+#     params:
+#       show_breadcrumb: true
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
-
-sections:
-  - block: markdown
-    id: teaching
+# sections:
+#   - block: markdown
+#     id: teaching
     # content:
     #   title: Teaching
     #   text: |-
