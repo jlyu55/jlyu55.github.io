@@ -52,7 +52,7 @@ interests:
   - Applied Statistics
 
 education:
-  - area: Ph.D. in Statistics
+  - area: Ph.D. in Statistics (minor in Computer Science)
     institution: University of Wisconsin–Madison
     date_start: 2022-09-01
     date_end: 2020-12-31
@@ -67,7 +67,7 @@ education:
     date_end: 2022-06-01
     # summary: |
     #   GPA: 4.0/4.0
-  - area: B.Eng. in Industrial Engineering
+  - area: B.Eng. in Industrial Engineering (minor in Statistics)
     institution: Tsinghua University
     date_start: 2016-08-01
     date_end: 2020-06-01
@@ -172,4 +172,6 @@ education:
 ---
 
 ## Bio
-I am currently a Ph.D. student at the Department of Statistics, University of Wisconsin–Madison. I received my M.S. in Statistics from University of Chicago in 2022, and B.Eng. in Industrial Engineering from Tsinghua University in 2020.
+I am currently a Ph.D. student in the Department of Statistics, University of Wisconsin–Madison. I am fortunate to be advised by Professor [Yiqiao Zhong](https://pages.stat.wisc.edu/~zhong35/).
+
+Prior to Ph.D., I received my M.S. in Statistics from University of Chicago in 2022, and B.Eng. in Industrial Engineering from Tsinghua University in 2020.
