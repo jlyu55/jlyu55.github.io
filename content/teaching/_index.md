@@ -1,52 +1,18 @@
 ---
 title: Teaching
+subtitle: ''
 summary: My courses
 type: docs
 id: teaching
-# cascade:
-#   - _target:
-#       kind: page
-#     params:
-#       show_breadcrumb: true
-
-# sections:
-#   - block: markdown
-#     id: teaching
-    # content:
-    #   title: Teaching
-    #   text: |-
-    #     <div style="font-size:16px;">
-        
-    #     #### Invited Talk
-
-    #     |   |   |   |
-    #     |---|---|---|
-    #     | Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
-    #     | Institute for Foundations of Data Science (IFDS) Ideas Forum | UW–Madison | 2024.11 |
-        
-    #     #### Poster Presentation
-
-    #     |   |   |   |
-    #     |---|---|---|
-    #     | 6th Annual Data Science Research Bazaar                      | UW–Madison | 2025.03 |
-
-    #     </div>
-    # design:
-    #   view: list
-    #   columns: 1
 ---
  
-#### Invited Talk
+#### Teaching Assistant, UW-Madison
 
-|   |   |   |
-|---|---|---|
-| Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
-| Institute for Foundations of Data Science (IFDS) Ideas Forum | UW–Madison | 2024.11 |
-
-#### Poster Presentation
-
-|   |   |   |
-|---|---|---|
-| 6th Annual Data Science Research Bazaar                      | UW–Madison | 2025.03 |
-
-</div>
+| Quarter	    | Course Number | Course Title                                  | Instructor    |
+|-------------|---------------|-----------------------------------------------|---------------|
+| Fall 2022   | STAT 324      | Introductory Applied Statistics for Engineers | Chelsey Green |
+| Spring 2023 | STAT 240      | Data Science Modeling I                       | Bi Cheng Wu   |
+| Fall 2023   | STAT 340      | Data Science Modeling II                      | Brian Powers  |
+| Spring 2024 | STAT 601      | Statistical Methods I                         | Miaoyan Wang  |
+| Fall 2024   | STAT 709      | Mathematical Statistics                       | Yiqiao Zhong  |
+| Spring 2025 | STAT 340      | Data Science Modeling II                      | Bi Cheng Wu   |
