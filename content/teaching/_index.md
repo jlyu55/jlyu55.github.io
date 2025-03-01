@@ -1,12 +1,12 @@
 ---
-title: Teaching
+title: Courses
 subtitle: ''
 summary: My courses
 type: docs
 id: teaching
 ---
  
-#### Teaching Assistant, UW-Madison
+## Teaching Assistant, UW-Madison
 
 | Quarter	    | Course Number | Course Title                                  | Instructor    |
 |-------------|---------------|-----------------------------------------------|---------------|
