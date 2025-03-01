@@ -52,9 +52,10 @@ interests:
   - Applied Statistics
 
 education:
-  - area: Ph.D. in Statistics 
+  - area: |
+      Ph.D. in Statistics 
   
-    Minor in Computer Science
+      Minor in Computer Science
     institution: University of Wisconsin–Madison
     date_start: 2022-09-01
     date_end: 2020-12-31
