@@ -52,7 +52,7 @@ interests:
   - Applied Statistics
 
 education:
-  - area: Ph.D. in Statistics (minor in Computer Science)
+  - area: Ph.D. in Statistics <br> Minor in Computer Science
     institution: University of Wisconsin–Madison
     date_start: 2022-09-01
     date_end: 2020-12-31
@@ -67,7 +67,7 @@ education:
     date_end: 2022-06-01
     # summary: |
     #   GPA: 4.0/4.0
-  - area: B.Eng. in Industrial Engineering (minor in Statistics)
+  - area: B.Eng. in Industrial Engineering <br> Minor in Statistics
     institution: Tsinghua University
     date_start: 2016-08-01
     date_end: 2020-06-01
