@@ -10,14 +10,28 @@ cascade:
       show_breadcrumb: true
 
 sections:
-  - block: collection
+  - block: markdown
     id: teaching
     content:
       title: Teaching
-      filters:
-        folders:
-          - teaching
+      text: |-
+        <div style="font-size:16px;">
+        
+        #### Invited Talk
+
+        |   |   |   |
+        |---|---|---|
+        | Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
+        | Institute for Foundations of Data Science (IFDS) Ideas Forum | UW–Madison | 2024.11 |
+        
+        #### Poster Presentation
+
+        |   |   |   |
+        |---|---|---|
+        | 6th Annual Data Science Research Bazaar                      | UW–Madison | 2025.03 |
+
+        </div>
     design:
-      view: article-grid
-      columns: 2
+      view: list
+      columns: 1
 ---
