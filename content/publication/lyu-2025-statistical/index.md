@@ -9,7 +9,7 @@ authors:
 - Kangjie Zhou
 - Yiqiao Zhong
 
-date: '2025-01-01'
+date: '2025-02-17'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-02-23T10:26:47.978519Z'
@@ -53,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Empirical Logit Distribution (ELD) and Testing Logit Distribution (TLD)'
   focal_point: ""
   preview_only: false
 

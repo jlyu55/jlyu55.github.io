@@ -83,15 +83,15 @@ sections:
         
         #### Invited Talk
 
-        |   |   |   |
-        |---|---|---|
+        |                                                              |            |         |
+        |--------------------------------------------------------------|------------|---------|
         | Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
         | Institute for Foundations of Data Science Ideas Forum        | UW–Madison | 2024.11 |
         
         #### Poster Presentation
 
-        |   |   |   |
-        |---|---|---|
+        |                                                              |            |         |
+        |--------------------------------------------------------------|------------|---------|
         | 6th Annual Data Science Research Bazaar                      | UW–Madison | 2025.03 |
 
         </div>
