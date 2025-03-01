@@ -86,7 +86,7 @@ sections:
         |   |   |   |
         |---|---|---|
         | Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
-        | Institute for Foundations of Data Science (IFDS) Ideas Forum | UW–Madison | 2024.11 |
+        | Institute for Foundations of Data Science Ideas Forum        | UW–Madison | 2024.11 |
         
         #### Poster Presentation
 
@@ -97,7 +97,7 @@ sections:
         </div>
     design:
       view: list
-      columns: 3
+      columns: 1
   # - block: collection
   #   id: news
   #   content:
@@ -128,21 +128,3 @@ sections:
   #     spacing:
   #       padding: [0, 0, 0, 0]
 ---
-
-<!-- ---
-title: Courses
-subtitle: ''
-summary: My courses
-type: docs
---- -->
- 
-## Teaching Assistant, UW-Madison
-
-| Quarter	    | Course Number | Course Title                                  | Instructor    |
-|-------------|---------------|-----------------------------------------------|---------------|
-| Fall 2022   | STAT 324      | Introductory Applied Statistics for Engineers | Chelsey Green |
-| Spring 2023 | STAT 240      | Data Science Modeling I                       | Bi Cheng Wu   |
-| Fall 2023   | STAT 340      | Data Science Modeling II                      | Brian Powers  |
-| Spring 2024 | STAT 601      | Statistical Methods I                         | Miaoyan Wang  |
-| Fall 2024   | STAT 709      | Mathematical Statistics                       | Yiqiao Zhong  |
-| Spring 2025 | STAT 340      | Data Science Modeling II                      | Bi Cheng Wu   |
