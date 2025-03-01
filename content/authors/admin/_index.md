@@ -53,8 +53,8 @@ interests:
 
 education:
   - area: |
-      Ph.D. in Statistics <br>
-  
+      Ph.D. in Statistics  
+      
       Minor in Computer Science
     institution: University of Wisconsin–Madison
     date_start: 2022-09-01
