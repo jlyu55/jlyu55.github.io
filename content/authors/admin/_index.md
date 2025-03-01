@@ -52,7 +52,7 @@ interests:
   - Applied Statistics
 
 education:
-  - area: Ph.D. in Statistics <br> Minor in Computer Science
+  - area: "Ph.D. in Statistics \nMinor in Computer Science"
     institution: University of Wisconsin–Madison
     date_start: 2022-09-01
     date_end: 2020-12-31
@@ -71,8 +71,8 @@ education:
     institution: Tsinghua University
     date_start: 2016-08-01
     date_end: 2020-06-01
-    summary: |
-      Minor in Statistics.
+    # summary: |
+    #   Minor in Statistics.
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
