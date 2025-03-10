@@ -6,7 +6,8 @@
 # Website name
 title: Jingyang Lyu's Home Page
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://jlyu55.github.io/'
+# baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
