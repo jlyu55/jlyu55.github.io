@@ -93,6 +93,8 @@ sections:
         |                                                              |            |         |
         |--------------------------------------------------------------|------------|---------|
         | 6th Annual Data Science Research Bazaar                      | UW–Madison | 2025.03 |
+        | The 38th New England Statistics Symposium                    | Yale       | 2025.06 |
+        | The Inaugural Workshop on Frontiers in Statistical Machine Learning | Vanderbilt | 2025.08 |
 
         </div>
     design:
