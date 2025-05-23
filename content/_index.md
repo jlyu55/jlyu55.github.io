@@ -81,20 +81,22 @@ sections:
       text: |-
         <div style="font-size:16px;">
         
-        #### Invited Talk
+        #### Invited & Contributed Talk
 
         |                                                              |            |         |
         |--------------------------------------------------------------|------------|---------|
         | Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
         | Institute for Foundations of Data Science Ideas Forum        | UW–Madison | 2024.11 |
+        | The 38th New England Statistics Symposium (NESS 2025)        | Yale       | 2025.06 |
         
         #### Poster Presentation
 
-        |                                                              |            |         |
-        |--------------------------------------------------------------|------------|---------|
-        | 6th Annual Data Science Research Bazaar                      | UW–Madison | 2025.03 |
-        | The 38th New England Statistics Symposium                    | Yale       | 2025.06 |
-        | The Inaugural Workshop on Frontiers in Statistical Machine Learning | Vanderbilt | 2025.08 |
+        |                                                              |              |         |
+        |--------------------------------------------------------------|--------------|---------|
+        | 6th Annual Data Science Research Bazaar                      | UW–Madison   | 2025.03 |
+        | Midwest Optimization & Statistical Learning Conference 2025  | Northwestern | 2025.05 |
+        | The 38th New England Statistics Symposium (NESS 2025)        | Yale         | 2025.06 |
+        | The Inaugural Workshop on Frontiers in Statistical Machine Learning (FSML) | Vanderbilt | 2025.08 |
 
         </div>
     design:

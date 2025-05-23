@@ -44,7 +44,7 @@ links:
 url_pdf: https://arxiv.org/pdf/2502.11323
 url_code: 'https://github.com/jlyu55/Imbalanced_Classification'
 url_dataset: ''
-url_poster: '#'
+url_poster: 'featured.png'
 url_project: ''
 url_slides: '#'
 url_source: ''
