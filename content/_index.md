@@ -37,7 +37,7 @@ sections:
       text: |-
         <div style="font-size:16px; max-width:2000px;">
         
-        - Frontiers in Statistical Machine Learning Travel Award, *the Institute of Mathematical Statistics (IMS)*, 2025+. 
+        - Frontiers in Statistical Machine Learning (FSML) Travel Award, *the Institute of Mathematical Statistics (IMS)*, 2025. 
 
         </div>
     design:
