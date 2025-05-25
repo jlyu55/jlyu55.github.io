@@ -35,7 +35,7 @@ sections:
       title: 'Honors and Awards'
       subtitle: ''
       text: |-
-        <div style="font-size:16px;">
+        <div style="font-size:16px; max-width:800px; margin:auto;">
         
         - Frontiers in Statistical Machine Learning Travel Award, *the Institute of Mathematical Statistics (IMS)*, 2025. 
 
