@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Honors and Awards'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        <div style="font-size:16px;">
         
-        Please reach out to collaborate 😃
+        - Frontiers in Statistical Machine Learning Travel Award, *the Institute of Mathematical Statistics (IMS)*, 2025. 
+
+        </div>
     design:
       columns: '1'
   - block: collection
