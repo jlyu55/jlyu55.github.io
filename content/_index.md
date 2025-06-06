@@ -37,7 +37,9 @@ sections:
       text: |-
         <div style="font-size:16px; max-width:2000px;">
         
-        - Frontiers in Statistical Machine Learning (FSML) Travel Award, *the Institute of Mathematical Statistics (IMS)*, 2025. 
+        - NESS Student Poster Award, *New England Statistical Society*, 2025.
+
+        - Frontiers in Statistical Machine Learning (FSML) Travel Award, *the Institute of Mathematical Statistics (IMS)*, 2025. [[Link]](https://fsmlims.wixsite.com/fsml25)
 
         </div>
     design:
