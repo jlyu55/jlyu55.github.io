@@ -96,6 +96,7 @@ sections:
         |                                                              |              |         |
         |--------------------------------------------------------------|--------------|---------|
         | The Inaugural Workshop on Frontiers in Statistical Machine Learning (FSML) | Vanderbilt | 2025.08 |
+        | Midwest Machine Learning Symposium (MMLS 2025)               | UChicago     | 2025.06 |
         | The 38th New England Statistics Symposium (NESS 2025)        | Yale         | 2025.06 |
         | Midwest Optimization & Statistical Learning Conference 2025  | Northwestern | 2025.05 |
         | 6th Annual Data Science Research Bazaar                      | UW–Madison   | 2025.03 |
