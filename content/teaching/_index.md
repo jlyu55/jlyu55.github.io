@@ -16,3 +16,4 @@ id: teaching
 | Spring 2024 | STAT 601      | Statistical Methods I                         | Miaoyan Wang  |
 | Fall 2024   | STAT 709      | Mathematical Statistics                       | Yiqiao Zhong  |
 | Spring 2025 | STAT 340      | Data Science Modeling II                      | Bi Cheng Wu   |
+| Fall 2025   | STAT 709      | Mathematical Statistics                       | Yiqiao Zhong  |
