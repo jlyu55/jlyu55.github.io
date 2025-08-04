@@ -39,6 +39,8 @@ sections:
         
         - NESS Student Poster Award, *New England Statistical Society*, 2025. [[Photo]](https://s3.us-east-1.amazonaws.com/nestat.org/media/pic/2025award_ceremony3.jpg)
 
+        - MMLS 2025 Honorable Mention Poster Award, *Midwest Machine Learning Symposium*, 2025. [[Link]](https://fsmlims.wixsite.com/fsml25)
+
         - Frontiers in Statistical Machine Learning (FSML) Travel Award, *the Institute of Mathematical Statistics (IMS)*, 2025. [[Link]](https://fsmlims.wixsite.com/fsml25)
 
         </div>
