@@ -37,7 +37,7 @@ sections:
       text: |-
         <div style="font-size:16px; max-width:2000px;">
         
-        - NESS Student Poster Award, *New England Statistical Society*, 2025. [[Photo]](https://s3.us-east-1.amazonaws.com/nestat.org/media/pic/2025award_ceremony3.jpg)
+        - NESS Student Poster Award, *New England Statistical Society*, 2025. [[Link]](https://nestat.org/posterawards/nessposter2025/)
 
         - MMLS 2025 Honorable Mention Poster Award, *Midwest Machine Learning Symposium*, 2025. [[Link]](https://midwest-ml.org/2025/)
 
@@ -100,7 +100,7 @@ sections:
         | The Inaugural Workshop on Frontiers in Statistical Machine Learning (FSML) | Vanderbilt | 2025.08 |
         | Midwest Machine Learning Symposium (MMLS 2025)               | UChicago     | 2025.06 |
         | The 38th New England Statistics Symposium (NESS 2025)        | Yale         | 2025.06 |
-        | Midwest Optimization & Statistical Learning Conference 2025  | Northwestern | 2025.05 |
+        | Midwest Optimization & Statistical Learning Conference 2025  | Northwestern | [2025.05](https://www.mccormick.northwestern.edu/research/optimization-machine-learning-center/news-events/past-workshops.html) |
         | 6th Annual Data Science Research Bazaar                      | UW–Madison   | 2025.03 |
         | 100th Transportation Research Board (TRB) Annual Meeting     | Virtual      | 2021.01 |
 
