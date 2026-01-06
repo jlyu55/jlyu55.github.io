@@ -39,11 +39,13 @@ sections:
         
         - NESS Student Poster Award, *New England Statistical Society*, 2025. [[Link]](https://nestat.org/posterawards/nessposter2025/)
 
-        - MMLS 2025 Honorable Mention Poster Award, *Midwest Machine Learning Symposium*, 2025. [[Link]](https://midwest-ml.org/2025/)
+        - MMLS 2025 Honorable Mention Poster Award, *MMLS*, 2025. [[Link]](https://midwest-ml.org/2025/)
 
-        - Frontiers in Statistical Machine Learning (FSML) Travel Award, *the Institute of Mathematical Statistics (IMS)*, 2025. [[Link]](https://fsmlims.wixsite.com/fsml25)
+        - Frontiers in Statistical Learning Travel Award, *the Institute of Mathematical Statistics (IMS)*, 2025. [[Link]](https://fsmlims.wixsite.com/fsml25)
 
         </div>
+    # - MMLS 2025 Honorable Mention Poster Award, *Midwest Machine Learning Symposium*, 2025. [[Link]](https://midwest-ml.org/2025/)
+    # - Frontiers in Statistical Machine Learning (FSML) Travel Award, *the Institute of Mathematical Statistics (IMS)*, 2025. [[Link]](https://fsmlims.wixsite.com/fsml25)
     design:
       columns: '1'
   - block: collection
@@ -90,21 +92,23 @@ sections:
         |                                                              |            |         |
         |--------------------------------------------------------------|------------|---------|
         | The 38th New England Statistics Symposium (NESS 2025)        | Yale       | 2025.06 |
-        | Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
+        | Math Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
         | Institute for Foundations of Data Science Ideas Forum        | UW–Madison | 2024.11 |
         
         #### Poster Presentation
 
         |                                                              |              |         |
         |--------------------------------------------------------------|--------------|---------|
-        | The Inaugural Workshop on Frontiers in Statistical Machine Learning (FSML) | Vanderbilt | 2025.08 |
-        | Midwest Machine Learning Symposium (MMLS 2025)               | UChicago     | 2025.06 |
+        | The Inaugural Workshop on Frontiers in Statistical Learning | Vanderbilt | 2025.08 |
         | The 38th New England Statistics Symposium (NESS 2025)        | Yale         | 2025.06 |
         | Midwest Optimization & Statistical Learning Conference 2025  | Northwestern | [2025.05](https://www.mccormick.northwestern.edu/research/optimization-machine-learning-center/news-events/past-workshops.html) |
         | 6th Annual Data Science Research Bazaar                      | UW–Madison   | 2025.03 |
         | 100th Transportation Research Board (TRB) Annual Meeting     | Virtual      | 2021.01 |
 
         </div>
+    # | Math Machine Learning seminar MPI MIS + UCLA                 | UCLA       | 2025.03 |
+    # | The Inaugural Workshop on Frontiers in Statistical Machine Learning (FSML) | Vanderbilt | 2025.08 |
+    # | Midwest Machine Learning Symposium (MMLS 2025)               | UChicago     | 2025.06 |
     design:
       view: list
       columns: 1
