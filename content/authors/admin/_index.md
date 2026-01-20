@@ -47,11 +47,8 @@ profiles:
     url: https://orcid.org/0000-0002-3532-7877
 
 interests:
-  # - Foundations of Deep Learning
-  # - Bias in Large Language Models
-  # - Applied Statistics
-  - Foundations of Statistical Learning
-  - High-dimensional Statistics
+  - Foundations of Deep Learning
+  - Bias in Large Language Models
   - Applied Statistics
 
 education:
