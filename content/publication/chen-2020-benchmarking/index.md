@@ -2,8 +2,8 @@
 title: 'Benchmarking road safety development across OECD countries: an empirical analysis
   for a decade'
 authors:
-- Faan Chen
-- Jingyang Lyu
+- "Faan Chen*"
+- admin_star
 - Tianye Wang
 date: '2020-01-01'
 publishDate: '2026-01-29T23:18:03.232360Z'

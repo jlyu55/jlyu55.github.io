@@ -4,7 +4,7 @@ title: Refining Covariance Matrix Estimation in Stochastic Gradient Descent thro
 authors:
 - Ziyang Wei
 - Wanrong Zhu
-- Jingyang Lyu
+- admin
 - Wei Biao Wu
 date: '2026-01-01'
 publishDate: '2026-01-29T23:18:03.259819Z'
