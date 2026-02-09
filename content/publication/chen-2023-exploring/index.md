@@ -13,7 +13,8 @@ publication_types:
 publication: '*Journal of safety research*'
 
 links:
-- icon: custom/elsevier
+- icon: github
+  icon_pack: fab
   name: link
   url: https://www.sciencedirect.com/science/article/pii/S0022437523000361
 ---
