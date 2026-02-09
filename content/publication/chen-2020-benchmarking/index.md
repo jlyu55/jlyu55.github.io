@@ -10,4 +10,9 @@ publishDate: '2026-01-29T23:18:03.232360Z'
 publication_types:
 - article-journal
 publication: '*Accident Analysis & Prevention*'
+
+links:
+- name: link
+  url: https://www.sciencedirect.com/science/article/pii/S0001457520315724
+  icon: academicons/elsevier
 ---
