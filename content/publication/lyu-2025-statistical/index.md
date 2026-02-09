@@ -10,10 +10,10 @@ publication_types:
 - article-journal
 publication: '*The Fourteenth International Conference on Learning Representations*'
 
-abstract: Classification with imbalanced data is a common challenge in data analysis, where certain classes (minority classes) account for a small fraction of the training data compared with other classes (majority classes). Classical statistical theory based on large-sample asymptotics and finite-sample corrections is often ineffective for high-dimensional data, leaving many overfitting phenomena in empirical machine learning unexplained. <br>In this paper, we develop a statistical theory for high-dimensional imbalanced classification by investigating support vector machines and logistic regression. We find that dimensionality induces truncation or skewing effects on the logit distribution, which we characterize via a variational problem under high-dimensional asymptotics. In particular, for linearly separable data generated from a two-component Gaussian mixture model, the logits from each class follow a normal distribution {{< math >}}$\mathsf{N}(0, 1)${{< /math >}} on the testing set, but asymptotically follow a rectified normal distribution {{< math >}}$\max\{\kappa, \mathsf{N}(0, 1)\}${{< /math >}} on the training set -- which is a pervasive phenomenon we verified on tabular data, image data, and text data. This phenomenon explains why the minority class is more severely affected by overfitting. Further, we show that margin rebalancing, which incorporates class sizes into the loss function, is crucial for mitigating the accuracy drop for the minority class. Our theory also provides insights into the effects of overfitting on calibration and other uncertain quantification measures.
+abstract: Classification with imbalanced data is a common challenge in machine learning, where minority classes form only a small fraction of the training samples. Classical theory, relying on large-sample asymptotics and finite-sample corrections, is often ineffective in high dimensions, leaving many overfitting phenomena unexplained. In this paper, we develop a statistical theory for high-dimensional imbalanced linear classification, showing that dimensionality induces truncation or skewing effects on the logit distribution, which we characterize via a variational problem. For linearly separable Gaussian mixtures, logits follow {{< math >}}$\mathsf{N}(0, 1)${{< /math >}} on the test set but converge to {{< math >}}$\max\{\kappa, \mathsf{N}(0, 1)\}${{< /math >}} on the training set---a pervasive phenomenon we confirm on tabular, image, and text data. This phenomenon explains why the minority class is more severely affected by overfitting. We further show that margin rebalancing mitigates minority accuracy drop and provide theoretical insights into calibration and uncertainty quantification.
 
 # Summary. An optional shortened abstract.
-summary: "We find that dimensionality induces truncation or skewing effects on the logit distribution, which provides insights into the effects of overfitting on classification errors and calibration..."
+summary: "Overfitting in high-dimensional imbalanced classification arises from truncation/skewing effects on the logit distribution."
 
 tags:
 - Statistical Foundation of Deep Learning
@@ -26,7 +26,7 @@ links:
 - name: Link
   url: https://arxiv.org/abs/2502.11323
 
-url_pdf: https://arxiv.org/pdf/2502.11323
+url_pdf: https://openreview.net/pdf?id=cKthi6QfUr
 url_code: 'https://github.com/jlyu55/Imbalanced_Classification'
 url_dataset: ''
 url_poster: 'poster.pdf'
