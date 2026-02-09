@@ -14,6 +14,9 @@ publication: '*The 29th International Conference on Artificial Intelligence and 
 
 abstract: We study online inference and asymptotic covariance estimation for the stochastic gradient descent (SGD) algorithm. While classical methods---such as plug-in and batch-means estimators---are available, they either require inaccessible second-order (Hessian) information or suffer from slow convergence. To address these challenges, we propose a novel, fully online de-biased covariance estimator that eliminates the need for second-order derivatives while significantly improving estimation accuracy. Our method employs a bias-reduction technique to achieve a convergence rate of {{< math >}}$n^{(\alpha-1)/2}\sqrt{\log n}${{< /math >}}, outperforming existing Hessian-free alternatives. We provide theoretical guarantees for consistency and validate the estimator's superior finite-sample performance through extensive simulations.
 
+# Summary. An optional shortened abstract.
+summary: "We propose a fully online, Hessian-free debiased covariance estimator for SGD that achieves faster convergence."
+
 tags:
 - Statistical Foundation of Deep Learning
 
