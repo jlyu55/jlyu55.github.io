@@ -23,10 +23,12 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Link
+- name: arXiv
   url: https://arxiv.org/abs/2502.11323
+- name: OpenReview
+  url: https://openreview.net/forum?id=cKthi6QfUr
 
-url_pdf: https://openreview.net/pdf?id=cKthi6QfUr
+url_pdf: ''
 url_code: 'https://github.com/jlyu55/Imbalanced_Classification'
 url_dataset: ''
 url_poster: 'poster.pdf'
