@@ -15,5 +15,5 @@ publication: '*Journal of safety research*'
 links:
 - name: link
   url: https://www.sciencedirect.com/science/article/pii/S0022437523000361
-  icon: academicons/elsevier
+  icon: hero/academic-cap
 ---
