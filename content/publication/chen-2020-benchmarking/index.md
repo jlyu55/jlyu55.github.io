@@ -14,5 +14,4 @@ publication: '*Accident Analysis & Prevention*'
 links:
 - name: link
   url: https://www.sciencedirect.com/science/article/pii/S0001457520315724
-  icon: academicons/elsevier
 ---

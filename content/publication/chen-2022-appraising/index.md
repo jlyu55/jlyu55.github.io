@@ -16,5 +16,4 @@ publication: '*Transport policy*'
 links:
 - name: link
   url: https://www.sciencedirect.com/science/article/pii/S0967070X22001159
-  icon: academicons/elsevier
 ---

@@ -13,7 +13,6 @@ publication_types:
 publication: '*Journal of safety research*'
 
 links:
-- type: github
-  name: link
+- name: link
   url: https://www.sciencedirect.com/science/article/pii/S0022437523000361
 ---

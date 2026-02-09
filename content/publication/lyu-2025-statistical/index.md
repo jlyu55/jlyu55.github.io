@@ -27,6 +27,8 @@ links:
   url: https://arxiv.org/abs/2502.11323
 - name: OpenReview
   url: https://openreview.net/forum?id=cKthi6QfUr
+- name: Blog
+  url: https://yiqiao-zhong.github.io/jekyll/update/2025/03/31/imbalanced-classification.html
 
 url_pdf: ''
 url_code: 'https://github.com/jlyu55/Imbalanced_Classification'
