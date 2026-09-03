@@ -37,11 +37,15 @@ sections:
       text: |-
         <div style="font-size:16px; max-width:2000px;">
         
-        - NESS Student Poster Award, *New England Statistical Society*, 2025. [[Link]](https://nestat.org/posterawards/nessposter2025/)
+        - ASA SLDS Conference 2026: Student, Post-doc, and Early Career Researcher Paper Awards, *American Statistical Association Statistical Learning and Data Science Section*, 2026.
+
+        - Honorable Mention: Outstanding Performance as a TA for Graduate Courses, *UW-Madison Department of Statistics*, 2026. [[Link]](https://stat.wisc.edu/2026/07/02/statistics-department-recognizes-2025-2026-outstanding-teaching-assistants/)
+
+        - Frontiers in Statistical Machine Learning (FSML) Travel Award, *the Institute of Mathematical Statistics (IMS)*, 2025. [[Link]](https://fsmlims.wixsite.com/fsml25)
 
         - MMLS 2025 Honorable Mention Poster Award, *Midwest Machine Learning Symposium*, 2025. [[Link]](https://midwest-ml.org/2025/)
 
-        - Frontiers in Statistical Machine Learning (FSML) Travel Award, *the Institute of Mathematical Statistics (IMS)*, 2025. [[Link]](https://fsmlims.wixsite.com/fsml25)
+        - NESS Student Poster Award, *New England Statistical Society*, 2025. [[Link]](https://nestat.org/posterawards/nessposter2025/)
 
         </div>
     design:

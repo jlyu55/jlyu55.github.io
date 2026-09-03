@@ -17,3 +17,5 @@ id: teaching
 | Fall 2024   | STAT 709      | Mathematical Statistics                       | Yiqiao Zhong  |
 | Spring 2025 | STAT 340      | Data Science Modeling II                      | Bi Cheng Wu   |
 | Fall 2025   | STAT 709      | Mathematical Statistics                       | Yiqiao Zhong  |
+| Spring 2026 | STAT 601      | Statistical Methods I                         | Xiao Luo      |
+| Fall 2026   | STAT 333      | Applied Linear Regression                     | Karl Rohe     |
